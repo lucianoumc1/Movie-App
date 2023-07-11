@@ -1,0 +1,9 @@
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: top  ;
+  width: 1200px;
+  margin: 0 auto;
+  gap: 2rem ;
+}
+
